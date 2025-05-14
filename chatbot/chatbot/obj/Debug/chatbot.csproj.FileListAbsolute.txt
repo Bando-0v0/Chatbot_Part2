@@ -1,0 +1,7 @@
+C:\Users\MGM\source\repos\chatbot\chatbot\bin\Debug\chatbot.exe.config
+C:\Users\MGM\source\repos\chatbot\chatbot\bin\Debug\chatbot.exe
+C:\Users\MGM\source\repos\chatbot\chatbot\bin\Debug\chatbot.pdb
+C:\Users\MGM\source\repos\chatbot\chatbot\obj\Debug\chatbot.csproj.AssemblyReference.cache
+C:\Users\MGM\source\repos\chatbot\chatbot\obj\Debug\chatbot.csproj.CoreCompileInputs.cache
+C:\Users\MGM\source\repos\chatbot\chatbot\obj\Debug\chatbot.exe
+C:\Users\MGM\source\repos\chatbot\chatbot\obj\Debug\chatbot.pdb

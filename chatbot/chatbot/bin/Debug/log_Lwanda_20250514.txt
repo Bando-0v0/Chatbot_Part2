@@ -1,0 +1,156 @@
+00:26:18 - Lwanda said: hi
+00:26:18 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+00:26:27 - Lwanda said: malware
+00:26:27 - Bot responded: Great! Let's talk about malware. Use a firewall to help block malicious traffic.
+00:26:33 - Lwanda said: more
+00:26:33 - Bot responded: Malware can come from email attachments or downloads.
+00:26:38 - Lwanda said: more
+00:26:38 - Bot responded: Run regular scans to detect hidden malware.
+00:26:44 - Lwanda said: okay
+00:26:44 - Bot responded: Would you like to discuss another topic? Just type it!
+00:26:49 - Lwanda said: exit
+00:26:49 - Bot responded: Goodbye, Lwanda. Please stay safe online!
+01:26:09 - Lwanda said: 
+01:26:09 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+01:26:19 - Lwanda said: I am confused
+01:26:19 - Bot responded: Let’s untangle that confusion together.
+01:26:44 - Lwanda said: what is a malware attack
+01:26:44 - Bot responded: Great! Let's talk about malware. Malware can come from email attachments or downloads.
+01:26:55 - Lwanda said: do you know more
+01:26:55 - Bot responded: Educate yourself about new malware trends.
+01:27:06 - Lwanda said: okay
+01:27:06 - Bot responded: Would you like to discuss another topic? Just type it!
+01:27:23 - Lwanda said: password protection
+01:27:23 - Bot responded: Great! Let's talk about password. Make sure your password isn’t easy to guess.
+01:27:39 - Lwanda said: do you know more
+01:27:39 - Bot responded: Enable two-factor authentication when possible.
+01:27:47 - Lwanda said: okay
+01:27:47 - Bot responded: Would you like to discuss another topic? Just type it!
+01:27:56 - Lwanda said: no exit
+01:27:56 - Bot responded: I didn’t catch that. Please choose a topic like 'phishing' or 'password'.
+01:28:00 - Lwanda said: exit
+01:28:00 - Bot responded: Goodbye, Lwanda. Please stay safe online!
+08:47:23 - Lwanda said: hi
+08:47:23 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+08:47:44 - Lwanda said: i am worried about password security
+08:47:44 - Bot responded: Let me show you how to stay safe, step by step.
+08:48:15 - Lwanda said: what do you know about password security
+08:48:15 - Bot responded: Great! Let's talk about password. Use at least 12 characters for a strong password.
+08:48:28 - Lwanda said: can you tell me more 
+08:48:28 - Bot responded: Use at least 12 characters for a strong password.
+08:48:37 - Lwanda said: more
+08:48:37 - Bot responded: Make sure your password isn’t easy to guess.
+08:48:43 - Lwanda said: okay
+08:48:43 - Bot responded: Would you like to discuss another topic? Just type it!
+08:49:21 - Lwanda said: exit
+08:49:21 - Bot responded: Goodbye, Lwanda. Please stay safe online!
+08:55:08 - Lwanda said: exit
+08:55:08 - Bot responded: Goodbye, Lwanda. Please stay safe online!
+09:00:17 - Lwanda said: exit
+09:00:17 - Bot responded: Bot: Goodbye, Lwanda. Please stay safe online!
+09:13:07 - Lwanda said: I want to learn about cyber security threats
+09:13:07 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+09:13:42 - Lwanda said: what is a VPN
+09:13:42 - Bot responded: I didn’t catch that. Please choose a topic like 'phishing' or 'password'.
+09:14:21 - Lwanda said: What is phishing
+09:14:21 - Bot responded: Great! Let's talk about phishing. Verify the sender before replying to any email.
+09:14:41 - Lwanda said: do you know more 
+09:14:41 - Bot responded: Report phishing emails to your IT department or provider.
+09:15:26 - Lwanda said: okay
+09:15:26 - Bot responded: Would you like to discuss another topic? Just type it!
+09:15:32 - Lwanda said: exit
+09:15:32 - Bot responded: Bot: Goodbye, Lwanda. Please stay safe online!
+09:36:30 - Lwanda said: hi
+09:36:30 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+09:37:10 - Lwanda said: which topics can i chose from
+09:37:10 - Bot responded: Great! Let's talk about topics. The scope of this conversation can cover 'phishing', 'password', 'malware', 'hacker', 'denial of service', 'scam' and 'socail engineering'.
+09:37:34 - Lwanda said: exit
+09:37:34 - Bot responded: Bot: Goodbye, Lwanda. Please stay safe online!
+09:47:45 - Lwanda said: hi
+09:47:45 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+09:48:08 - Lwanda said: which topics do you know
+09:48:08 - Bot responded: Great! Let's talk about topics. The scope of this conversation can cover 'phishing', 'password', 'malware', 'hacker', 'denial of service', 'scam' and 'socail engineering'.
+09:48:29 - Lwanda said: I am worried about scams
+09:48:29 - Bot responded: It's okay to feel concerned—you're not alone.
+09:48:46 - Lwanda said: please tell me about scams
+09:48:46 - Bot responded: Would you like to discuss another topic? Just type it!
+09:49:05 - Lwanda said: please tell about scam
+09:49:05 - Bot responded: Great! Let's talk about scam. Be cautious when someone asks for gift cards or wire transfers.
+09:49:22 - Lwanda said: please tell me more
+09:49:22 - Bot responded: Report scams to proper authorities.
+09:49:47 - Lwanda said: okay
+09:49:47 - Bot responded: Would you like to discuss another topic? Just type it!
+09:49:55 - Lwanda said: i am confused
+09:49:55 - Bot responded: Let’s go over it again more simply.
+09:50:05 - Lwanda said: scam
+09:50:05 - Bot responded: Great! Let's talk about scam. Scammers often use urgency to pressure you.
+09:50:19 - Lwanda said: please tell me more 
+09:50:19 - Bot responded: Scammers often use urgency to pressure you.
+09:50:32 - Lwanda said: okay
+09:50:32 - Bot responded: Would you like to discuss another topic? Just type it!
+09:50:46 - Lwanda said: password protection
+09:50:46 - Bot responded: Great! Let's talk about password. Make sure your password isn’t easy to guess.
+09:50:58 - Lwanda said: please tell me more
+09:50:58 - Bot responded: Use at least 12 characters for a strong password.
+09:51:06 - Lwanda said: okay
+09:51:06 - Bot responded: Would you like to discuss another topic? Just type it!
+09:51:25 - Lwanda said: exit
+09:51:25 - Bot responded: Bot: Goodbye, Lwanda. Please stay safe online!
+10:46:15 - Lwanda said: hi
+10:46:15 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+10:46:20 - Lwanda said: memory
+10:46:20 - Bot responded: password
+10:46:57 - Lwanda said: exit
+10:46:57 - Bot responded: Bot: Goodbye, Lwanda. Please stay safe online!
+10:52:38 - Lwanda said: hi
+10:52:38 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+10:52:46 - Lwanda said: memory
+10:52:46 - Bot responded: password
+10:53:22 - Lwanda said: exit
+10:53:22 - Bot responded: Bot: Goodbye, Lwanda. Please stay safe online!
+10:55:48 - Lwanda said: hi
+10:55:48 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+10:56:01 - Lwanda said: memory
+10:56:01 - Bot responded: password
+10:56:11 - Lwanda said: exit
+10:56:11 - Bot responded: Bot: Goodbye, Lwanda. Please stay safe online!
+13:24:31 - Lwanda said: hi
+13:24:31 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+13:28:23 - Lwanda said: hi
+13:28:23 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+13:28:33 - Lwanda said: memory
+13:28:33 - Bot responded: Based on our conversation, you seem most interested in **password**. You've asked about it 28 time(s).
+
+I am here to help with anything you need
+13:29:01 - Lwanda said: exit
+13:29:01 - Bot responded: Bot: Goodbye, Lwanda. Please stay safe online!
+14:08:41 - Lwanda said: hi
+14:08:41 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+14:08:54 - Lwanda said: memory
+14:08:54 - Bot responded: Based on our conversation, you seem most interested in **password**. You've asked about it 30 time(s).
+
+It seem like you are really eager to learn about cyber security
+15:11:51 - Lwanda said: hi
+15:11:51 - Bot responded: What cybersecurity topic would you like help with today? (e.g., password, phishing, scam)
+15:12:31 - Lwanda said: I would like to know about which topics you can answer
+15:12:31 - Bot responded: Great! Let's talk about topics. The scope of this conversation can cover 'phishing', 'password', 'malware', 'hacker', 'denial of service', 'scam' and 'socail engineering'.
+15:13:06 - Lwanda said: i am worried about hacker
+15:13:06 - Bot responded: Feeling uneasy is natural—let's tackle this together.
+15:13:39 - Lwanda said: what doo know about hacker
+15:13:39 - Bot responded: Would you like to discuss another topic? Just type it!
+15:13:58 - Lwanda said: what do you know about hacker
+15:13:58 - Bot responded: Great! Let's talk about hacker. White hats help improve security through testing.
+15:14:22 - Lwanda said: please tell me more
+15:14:22 - Bot responded: Not all hackers are criminals—some are ethical hackers.
+15:14:46 - Lwanda said: do you know more
+15:14:46 - Bot responded: Keep your software and systems patched.
+15:15:00 - Lwanda said: okay, thank you 
+15:15:00 - Bot responded: Would you like to discuss another topic? Just type it!
+15:15:46 - Lwanda said: please show memory
+15:15:46 - Bot responded: I didn’t catch that. The scope of this conversation can cover 'phishing', 'password', 'malware', 'hacker', 'denial of service', 'scam' and 'socail engineering'.
+15:16:00 - Lwanda said: memory
+15:16:00 - Bot responded: Based on our conversation, you seem most interested in **password**. You've asked about it 34 time(s).
+
+It seem like you are really eager to learn about cyber security
+15:18:17 - Lwanda said: exit
+15:18:17 - Bot responded: Bot: Goodbye, Lwanda. Please stay safe online!
